@@ -17118,3 +17118,25 @@
 [14Dec2024 04:46:53.159] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-35
 [14Dec2024 04:47:37.443] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=472, y=67, z=-688} BlockPos{x=472, y=67, z=-689}
 [14Dec2024 04:47:45.441] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=470, y=68, z=-690} BlockPos{x=471, y=67, z=-689}
+[14Dec2024 04:48:23.181] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:48:23.187] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:48:23.196] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-36
+[14Dec2024 04:48:23.197] [IO-Worker-36/DEBUG] [Smooth Boot/]: Initialized IO-Worker-37
+[14Dec2024 04:48:23.202] [IO-Worker-36/DEBUG] [Smooth Boot/]: Initialized IO-Worker-38
+[14Dec2024 04:48:23.203] [IO-Worker-36/DEBUG] [Smooth Boot/]: Initialized IO-Worker-39
+[14Dec2024 04:48:23.454] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:48:23.468] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 04:49:01.434] [Server thread/DEBUG] [mixin/]: Mixing rankine.EntityInteractHandlerMixin from frostedheart.mixins.json into com.cannolicatfish.rankine.events.handlers.common.EntityInteractHandler
+[14Dec2024 04:51:46.382] [Server thread/DEBUG] [mixin/]: Mixing forge.FluidHandlerItemStackSimpleMixin from frostedheart.mixins.json into net.minecraftforge.fluids.capability.templates.FluidHandlerItemStackSimple
+[14Dec2024 04:53:23.180] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:53:23.186] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:53:23.196] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-40
+[14Dec2024 04:53:23.196] [IO-Worker-40/DEBUG] [Smooth Boot/]: Initialized IO-Worker-41
+[14Dec2024 04:53:23.206] [IO-Worker-40/DEBUG] [Smooth Boot/]: Initialized IO-Worker-42
+[14Dec2024 04:53:23.231] [IO-Worker-41/DEBUG] [Smooth Boot/]: Initialized IO-Worker-43
+[14Dec2024 04:53:23.429] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:53:23.448] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 04:54:01.079] [Server thread/INFO] [morpheus/]: ZShiKa is now sleeping. 1/2 (50%)
+[14Dec2024 04:56:40.692] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-44
+[14Dec2024 04:56:40.693] [IO-Worker-44/DEBUG] [Smooth Boot/]: Initialized IO-Worker-45
+[14Dec2024 04:56:40.693] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-46
