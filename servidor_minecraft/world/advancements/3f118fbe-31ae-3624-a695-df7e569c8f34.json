@@ -470,6 +470,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_elements/tin_ingot_from_cassiterite_blasting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:19:17 +0000"
+    },
+    "done": true
+  },
   "the_winter_rescue:root": {
     "criteria": {
       "item1": "2024-12-13 13:41:39 +0000"
@@ -2103,6 +2109,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_metallurgy/cassiterite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:19:17 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_dacite_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
@@ -2436,6 +2448,12 @@
   "charcoal_pit:charcoal_pit/clay_pot": {
     "criteria": {
       "item1": "2024-12-14 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/cassiterite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:19:17 +0000"
     },
     "done": true
   },
