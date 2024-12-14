@@ -806,6 +806,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-14 14:57:40 +0000",
       "minecraft:stray": "2024-12-13 15:14:08 +0000",
       "minecraft:zombie": "2024-12-13 15:08:08 +0000"
     },
@@ -911,6 +912,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-13 15:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-14 14:57:40 +0000"
     },
     "done": true
   },
@@ -1499,6 +1506,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/brick": {
+    "criteria": {
+      "item2": "2024-12-14 14:56:29 +0000"
     },
     "done": true
   },

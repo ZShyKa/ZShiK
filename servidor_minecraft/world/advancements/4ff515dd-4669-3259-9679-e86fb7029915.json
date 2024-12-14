@@ -923,6 +923,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-14 14:57:42 +0000",
       "minecraft:skeleton": "2024-12-13 14:08:26 +0000",
       "minecraft:spider": "2024-12-14 14:24:42 +0000",
       "minecraft:stray": "2024-12-13 13:52:00 +0000",
@@ -2035,6 +2036,12 @@
   "rankine:recipes/rankine_world/white_marble_slab_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:08:29 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/fire_starter": {
+    "criteria": {
+      "item1": "2024-12-14 14:54:15 +0000"
     },
     "done": true
   },

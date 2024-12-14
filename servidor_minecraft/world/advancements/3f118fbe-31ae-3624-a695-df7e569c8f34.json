@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-14 14:59:53 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_marble_from_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-14 06:46:12 +0000"
@@ -616,6 +622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-14 14:59:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 14:04:56 +0000"
@@ -996,6 +1008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-14 14:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-13 13:52:01 +0000"
@@ -1107,6 +1125,12 @@
   "rankine:recipes/rankine_metallurgy/lignite_block": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-14 14:59:53 +0000"
     },
     "done": true
   },
@@ -2350,6 +2374,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-14 14:59:53 +0000"
     },
     "done": true
   },
