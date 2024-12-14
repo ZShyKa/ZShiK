@@ -5124,3 +5124,8 @@
 [14Dec2024 06:48:11.181] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [14Dec2024 06:48:23.185] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
 [14Dec2024 06:48:23.191] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 06:53:23.180] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 06:53:23.185] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 06:53:39.079] [Server thread/INFO] [morpheus/]: thephubeo is now sleeping. 1/2 (50%)
+[14Dec2024 06:58:23.182] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 06:58:23.187] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!

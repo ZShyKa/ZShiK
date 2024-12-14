@@ -63,6 +63,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/bronze_door": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:43:08 +0000"
@@ -72,6 +78,12 @@
   "rankine:recipes/rankine_world/black_dacite_pressure_plate_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_helmet": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -171,6 +183,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/bronze_pole": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
@@ -255,6 +273,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/bronze_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-13 13:49:57 +0000"
@@ -294,6 +318,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-13 13:47:45 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_pickaxe": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -457,6 +487,12 @@
   "rankine:recipes/rankine_misc/building_tool": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_leggings": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -660,6 +696,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/bronze_blunderbuss": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_bricks_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
@@ -717,6 +759,12 @@
   "rankine:recipes/rankine_world/white_marble_pressure_plate_from_white_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_spear": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -1313,6 +1361,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/bronze_sheetmetal": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/tin_sheetmetal": {
     "criteria": {
       "has_ingredient": "2024-12-14 06:30:56 +0000"
@@ -1406,6 +1460,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_axe": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -1514,6 +1574,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_surf_rod": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -1721,6 +1787,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/bronze_boots": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_recipe": "2024-12-13 15:30:36 +0000"
@@ -1760,6 +1832,24 @@
   "rankine:recipes/rankine_metallurgy/malachite_block": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:07:10 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/bronze_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_crowbar": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_components/bronze_gear": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -2039,6 +2129,12 @@
     },
     "done": true
   },
+  "rankine:challenges/alloy_collector": {
+    "criteria": {
+      "bronze_ingot": "2024-12-14 06:52:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-13 15:30:36 +0000"
@@ -2120,6 +2216,18 @@
   "rankine:recipes/decorations/torch_from_lignite": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/bronze_bars": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_chestplate": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -2231,6 +2339,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/bronze_sword": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_metallurgy/cassiterite_block": {
     "criteria": {
       "has_ingredient": "2024-12-14 06:19:17 +0000"
@@ -2240,6 +2354,12 @@
   "rankine:recipes/rankine_world/black_dacite_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_hoe": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -2465,6 +2585,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_metallurgy/bronze_nugget": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-14 06:05:20 +0000"
@@ -2477,9 +2603,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/bronze_hammer": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/dolostone_vslab_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_shovel": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -2729,6 +2867,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/bronze_pedestal": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/chalk_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
@@ -2822,6 +2966,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_knife": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
