@@ -488,6 +488,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_elements/tin_ingot_from_cassiterite_blasting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 07:02:52 +0000"
+    },
+    "done": true
+  },
   "the_winter_rescue:root": {
     "criteria": {
       "item1": "2024-12-13 13:41:22 +0000"
@@ -1118,6 +1124,12 @@
   "chisel:recipes/chisel/laboratory/smallsteel": {
     "criteria": {
       "has_quartz": "2024-12-14 04:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-14 07:07:25 +0000"
     },
     "done": true
   },
@@ -1995,6 +2007,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_metallurgy/cassiterite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 07:02:52 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_dacite_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:18:04 +0000"
@@ -2251,6 +2269,12 @@
   "rankine:recipes/rankine_misc/sandals": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:07:45 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/cassiterite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 07:02:52 +0000"
     },
     "done": true
   },
