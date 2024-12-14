@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/white_marble_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
@@ -19,6 +25,7 @@
   },
   "rankine:challenges/stone_collector": {
     "criteria": {
+      "black_marble": "2024-12-14 06:46:12 +0000",
       "shale": "2024-12-13 15:15:19 +0000",
       "dolostone": "2024-12-14 05:14:53 +0000",
       "white_marble": "2024-12-14 05:16:26 +0000",
@@ -140,9 +147,21 @@
     },
     "done": true
   },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-12-14 06:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_wall_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -242,6 +261,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/polished_black_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/dolostone_from_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:14:53 +0000"
@@ -272,6 +297,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "thermopolium:recipes/thermopolium/clay_cistern": {
     "criteria": {
       "has_clay": "2024-12-13 14:39:32 +0000"
@@ -287,6 +318,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_black_marble_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -435,6 +472,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-13 14:04:56 +0000"
@@ -525,6 +568,12 @@
       "minecraft:stray": "2024-12-14 06:09:43 +0000"
     },
     "done": false
+  },
+  "rankine:recipes/rankine_world/black_marble_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
   },
   "rankine:recipes/rankine_world/blueschist_bricks": {
     "criteria": {
@@ -851,6 +900,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_button_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/troctolite_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
@@ -884,6 +939,12 @@
   "rankine:recipes/rankine_world/shale_from_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -1072,6 +1133,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_pressure_plate_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/dolostone_slab_from_dolostone_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:14:53 +0000"
@@ -1099,6 +1166,12 @@
   "cfm:recipes/cfm/stone_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_stairs_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -1294,6 +1367,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 15:02:33 +0000"
@@ -1381,6 +1460,12 @@
   "rankine:recipes/rankine_misc/flint_spear": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_vertical_slab_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -1768,6 +1853,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/packed_snow": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:51:58 +0000"
@@ -1984,6 +2075,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_recipe": "2024-12-13 15:30:36 +0000"
@@ -2107,6 +2204,12 @@
   "rankine:recipes/rankine_world/white_marble_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_bricks_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -2242,6 +2345,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_recipe": "2024-12-13 15:08:16 +0000"
@@ -2341,6 +2450,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -2536,6 +2651,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_marble_slab_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/prospecting_stick": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:49:57 +0000"
@@ -2545,6 +2666,12 @@
   "rankine:recipes/rankine_world/diabase_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
