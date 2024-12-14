@@ -200,6 +200,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "charcoal_pit:charcoal_pit/root": {
     "criteria": {
       "item1": "2024-12-13 13:41:19 +0000"
@@ -215,6 +221,18 @@
   "rankine:recipes/rankine_world/black_dacite_stairs_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/template_table": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -248,6 +266,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-13 13:46:17 +0000"
@@ -263,6 +287,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -314,9 +344,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_crate": {
     "criteria": {
       "has_log": "2024-12-13 14:07:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -446,6 +488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_recipe": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
@@ -560,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/dowsing_rod": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:04:42 +0000"
@@ -575,6 +629,12 @@
   "rankine:recipes/rankine_world/black_marble_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:12:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -701,7 +761,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 14:08:26 +0000",
-      "minecraft:stray": "2024-12-13 13:52:00 +0000"
+      "minecraft:spider": "2024-12-14 14:24:42 +0000",
+      "minecraft:stray": "2024-12-13 13:52:00 +0000",
+      "minecraft:zombie": "2024-12-14 14:25:00 +0000"
     },
     "done": false
   },
@@ -862,6 +924,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_recipe": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "has_recipe": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_marble_wall": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:12:45 +0000"
@@ -871,6 +945,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_recipe": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -910,6 +990,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-14 14:01:42 +0000"
@@ -931,6 +1017,12 @@
   "cfm:recipes/cfm/granite_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/material_testing_table": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1036,6 +1128,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/komatiite_stairs_from_komatiite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:56 +0000"
@@ -1096,6 +1194,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/wooden_gold_pan": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
@@ -1129,6 +1233,12 @@
   "rankine:recipes/rankine_world/ice_bricks": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:44:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1174,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_chair": {
     "criteria": {
       "has_log": "2024-12-13 14:07:27 +0000"
@@ -1201,6 +1317,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1240,6 +1362,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-13 13:41:19 +0000"
@@ -1267,6 +1395,18 @@
   "rankine:recipes/rankine_misc/bone_ash_from_bone_smelting": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1312,15 +1452,33 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/wooden_hammer": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:stray": "2024-12-13 13:52:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/white_marble_wall_from_white_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:08:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1361,6 +1519,7 @@
       "minecraft:birch_forest": "2024-12-13 13:47:53 +0000",
       "minecraft:beach": "2024-12-13 13:39:50 +0000",
       "minecraft:river": "2024-12-13 13:42:40 +0000",
+      "minecraft:birch_forest_hills": "2024-12-14 14:22:37 +0000",
       "minecraft:wooded_hills": "2024-12-14 14:14:52 +0000",
       "minecraft:swamp": "2024-12-13 13:54:15 +0000",
       "minecraft:plains": "2024-12-13 13:42:41 +0000"
@@ -1376,6 +1535,12 @@
   "cfm:recipes/cfm/granite_table": {
     "criteria": {
       "has_planks": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-14 14:26:20 +0000"
     },
     "done": true
   },
@@ -1404,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2024-12-14 14:26:20 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_marble_stairs_from_black_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:12:45 +0000"
@@ -1413,6 +1584,18 @@
   "rankine:story/root": {
     "criteria": {
       "stick": "2024-12-13 13:41:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1473,6 +1656,12 @@
   "rankine:recipes/rankine_world/white_marble_button_from_white_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:08:29 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
@@ -1554,6 +1743,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2024-12-13 13:57:50 +0000"
@@ -1599,6 +1794,18 @@
   "create:recipes/create.palettes/smelting/gabbro": {
     "criteria": {
       "has_item": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-14 14:26:23 +0000"
     },
     "done": true
   },
