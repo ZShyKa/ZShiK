@@ -248,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-14 14:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 14:10:28 +0000"
@@ -515,6 +521,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-13 14:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-14 14:06:31 +0000"
     },
     "done": true
   },
@@ -883,6 +895,12 @@
   "cfm:recipes/cfm/granite_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-14 14:01:42 +0000"
     },
     "done": true
   },
