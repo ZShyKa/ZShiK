@@ -17155,3 +17155,24 @@
 [14Dec2024 05:03:23.304] [IO-Worker-51/DEBUG] [Smooth Boot/]: Initialized IO-Worker-53
 [14Dec2024 05:03:23.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [14Dec2024 05:03:23.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 05:08:23.179] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:08:23.185] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:08:23.196] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-54
+[14Dec2024 05:08:23.197] [IO-Worker-54/DEBUG] [Smooth Boot/]: Initialized IO-Worker-55
+[14Dec2024 05:08:23.202] [IO-Worker-54/DEBUG] [Smooth Boot/]: Initialized IO-Worker-56
+[14Dec2024 05:08:23.211] [IO-Worker-54/DEBUG] [Smooth Boot/]: Initialized IO-Worker-57
+[14Dec2024 05:08:23.351] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:08:23.363] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 05:10:40.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ZShiKa has made the advancement [It's on like Donkey Kong]
+[14Dec2024 05:13:23.181] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:13:23.186] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:13:23.195] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-58
+[14Dec2024 05:13:23.195] [IO-Worker-58/DEBUG] [Smooth Boot/]: Initialized IO-Worker-59
+[14Dec2024 05:13:23.202] [IO-Worker-58/DEBUG] [Smooth Boot/]: Initialized IO-Worker-60
+[14Dec2024 05:13:23.204] [IO-Worker-58/DEBUG] [Smooth Boot/]: Initialized IO-Worker-61
+[14Dec2024 05:13:23.346] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:13:23.358] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 05:14:38.551] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-62
+[14Dec2024 05:14:38.551] [IO-Worker-62/DEBUG] [Smooth Boot/]: Initialized IO-Worker-63
+[14Dec2024 05:16:19.484] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-64
+[14Dec2024 05:16:19.485] [IO-Worker-64/DEBUG] [Smooth Boot/]: Initialized IO-Worker-65

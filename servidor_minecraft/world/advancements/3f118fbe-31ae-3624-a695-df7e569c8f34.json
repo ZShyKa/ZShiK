@@ -401,9 +401,21 @@
     },
     "done": true
   },
+  "rankine:recipes/misc/green_dye_from_malachite": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:07:10 +0000"
+    },
+    "done": true
+  },
   "thermopolium:recipes/thermopolium/clay_cistern": {
     "criteria": {
       "has_clay": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/malachite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:07:10 +0000"
     },
     "done": true
   },
@@ -452,6 +464,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/barrel": {
+    "criteria": {
+      "item1": "2024-12-14 05:10:40 +0000"
     },
     "done": true
   },
@@ -629,6 +647,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_metallurgy/malachite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:07:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
@@ -680,6 +704,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-14 05:07:10 +0000"
     },
     "done": true
   },
@@ -1532,6 +1562,12 @@
   "rankine:recipes/rankine_world/polished_shale": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-12-14 05:07:10 +0000"
     },
     "done": true
   },
