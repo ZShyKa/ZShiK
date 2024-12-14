@@ -105,6 +105,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_misc/blasting_powder": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 15:15:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
@@ -637,6 +643,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_recipe": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-14 15:15:58 +0000"
     },
     "done": true
   },
