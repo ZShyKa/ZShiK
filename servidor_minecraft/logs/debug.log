@@ -17140,3 +17140,18 @@
 [14Dec2024 04:56:40.692] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-44
 [14Dec2024 04:56:40.693] [IO-Worker-44/DEBUG] [Smooth Boot/]: Initialized IO-Worker-45
 [14Dec2024 04:56:40.693] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-46
+[14Dec2024 04:58:15.191] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-47
+[14Dec2024 04:58:15.192] [IO-Worker-47/DEBUG] [Smooth Boot/]: Initialized IO-Worker-48
+[14Dec2024 04:58:15.192] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-49
+[14Dec2024 04:58:23.179] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:58:23.184] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:58:23.478] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:58:23.492] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 05:03:23.182] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:03:23.187] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:03:23.196] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-50
+[14Dec2024 05:03:23.196] [IO-Worker-50/DEBUG] [Smooth Boot/]: Initialized IO-Worker-51
+[14Dec2024 05:03:23.203] [IO-Worker-50/DEBUG] [Smooth Boot/]: Initialized IO-Worker-52
+[14Dec2024 05:03:23.304] [IO-Worker-51/DEBUG] [Smooth Boot/]: Initialized IO-Worker-53
+[14Dec2024 05:03:23.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:03:23.562] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

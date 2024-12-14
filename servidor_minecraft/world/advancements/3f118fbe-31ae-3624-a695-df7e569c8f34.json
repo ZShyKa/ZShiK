@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 04:58:49 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/charcoal_pit": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:04:56 +0000"
@@ -819,6 +825,12 @@
   "rankine:recipes/rankine_world/packed_snow_from_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_birch_planks": {
+    "criteria": {
+      "has_log": "2024-12-14 04:58:49 +0000"
     },
     "done": true
   },
@@ -1379,6 +1391,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_plants/hollow_black_birch_log": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 04:58:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
@@ -1448,6 +1466,12 @@
   "tetra:recipes/planks": {
     "criteria": {
       "got_wood": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/stripped_black_birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 04:58:49 +0000"
     },
     "done": true
   },
