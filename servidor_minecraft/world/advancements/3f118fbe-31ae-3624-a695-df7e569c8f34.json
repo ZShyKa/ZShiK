@@ -177,15 +177,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/black_marble_wall_from_black_marble_stonecutting": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 06:46:12 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/dolostone_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_wall_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:46:12 +0000"
     },
     "done": true
   },
@@ -1487,15 +1487,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_misc/bronze_axe": {
-    "criteria": {
-      "has_alloy": "2024-12-14 06:52:12 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bronze_axe": {
+    "criteria": {
+      "has_alloy": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
@@ -1691,15 +1691,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/phyllite_bricks": {
-    "criteria": {
-      "has_mortar": "2024-12-14 05:51:38 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/black_dacite_stairs_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/phyllite_bricks": {
+    "criteria": {
+      "has_mortar": "2024-12-14 05:51:38 +0000"
     },
     "done": true
   },
@@ -1786,6 +1786,12 @@
       "has_ingredient": "2024-12-14 06:30:56 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-14 13:34:12 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
@@ -2376,15 +2382,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_metallurgy/cassiterite_block": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 06:19:17 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/black_dacite_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/cassiterite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:19:17 +0000"
     },
     "done": true
   },
@@ -2412,15 +2418,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/graywacke_bricks": {
-    "criteria": {
-      "has_mortar": "2024-12-14 05:51:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-14 05:23:12 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/graywacke_bricks": {
+    "criteria": {
+      "has_mortar": "2024-12-14 05:51:38 +0000"
     },
     "done": true
   },
@@ -2808,15 +2814,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/gray_granite_bricks": {
-    "criteria": {
-      "has_mortar": "2024-12-14 05:51:38 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/black_dacite_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/gray_granite_bricks": {
+    "criteria": {
+      "has_mortar": "2024-12-14 05:51:38 +0000"
     },
     "done": true
   },
@@ -2904,15 +2910,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/bronze_pedestal": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 06:52:12 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/chalk_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/bronze_pedestal": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:52:12 +0000"
     },
     "done": true
   },
