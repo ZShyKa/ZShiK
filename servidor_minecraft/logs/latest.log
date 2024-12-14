@@ -5939,3 +5939,9 @@
 [14Dec2024 15:16:59.746] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
 [14Dec2024 15:21:49.095] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
 [14Dec2024 15:21:49.101] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 15:26:49.094] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 15:26:49.100] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 15:27:33.294] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thephubeo lost connection: Disconnected
+[14Dec2024 15:27:33.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thephubeo left the game
+[14Dec2024 15:27:33.295] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 15:31:49.096] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
