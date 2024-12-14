@@ -128,6 +128,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-14 05:50:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk": {
     "criteria": {
       "has_planks": "2024-12-13 15:25:49 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 05:50:11 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_metallurgy/lignite_from_block": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:47:01 +0000"
@@ -779,6 +791,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_blinds": {
+    "criteria": {
+      "has_log": "2024-12-14 05:50:11 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_dacite_button": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:18:04 +0000"
@@ -830,6 +848,12 @@
   "rankine:recipes/rankine_world/black_dacite_slab_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-14 05:51:56 +0000"
     },
     "done": true
   },
@@ -1052,6 +1076,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-14 05:50:11 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_bricks_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 04:52:43 +0000"
@@ -1067,6 +1097,12 @@
   "rankine:recipes/misc/coal_from_lignite": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:47:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-14 05:50:11 +0000"
     },
     "done": true
   },
@@ -1694,6 +1730,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-14 05:50:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 15:11:05 +0000"
@@ -1745,8 +1787,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-13 13:39:30 +0000",
+      "minecraft:mountains": "2024-12-14 05:56:18 +0000",
       "minecraft:birch_forest": "2024-12-13 13:48:03 +0000",
       "minecraft:beach": "2024-12-13 13:39:45 +0000",
+      "minecraft:dark_forest": "2024-12-14 05:57:30 +0000",
       "minecraft:river": "2024-12-13 13:42:55 +0000",
       "minecraft:lukewarm_ocean": "2024-12-14 05:45:55 +0000",
       "minecraft:wooded_hills": "2024-12-14 05:42:54 +0000",
