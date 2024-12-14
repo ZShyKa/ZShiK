@@ -483,6 +483,13 @@
     },
     "done": true
   },
+  "crockpot:gnaw_will_be_happy": {
+    "criteria": {
+      "fish_tacos": "2024-12-14 15:05:04 +0000",
+      "watermelon_icle": "2024-12-14 15:05:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-13 13:54:23 +0000"

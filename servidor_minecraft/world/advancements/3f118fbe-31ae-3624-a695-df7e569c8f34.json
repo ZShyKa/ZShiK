@@ -129,6 +129,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-13 13:41:39 +0000"
@@ -245,9 +251,10 @@
   },
   "charcoal_pit:charcoal_pit/bloomery": {
     "criteria": {
+      "item2": "2024-12-14 15:08:30 +0000",
       "item1": "2024-12-14 07:09:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
@@ -273,6 +280,12 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/projector": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-14 06:02:34 +0000"
@@ -288,6 +301,12 @@
   "rankine:recipes/rankine_world/black_dacite_vslab_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/treated_wallmount": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -592,6 +611,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_horizontal_to_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "the_winter_rescue:root": {
     "criteria": {
       "item1": "2024-12-13 13:41:39 +0000"
@@ -677,6 +702,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_vertical_from_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-13 13:54:13 +0000"
@@ -717,6 +748,12 @@
   "rankine:recipes/rankine_world/dolostone_wall_from_dolostone_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -906,6 +943,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/windmill_blade": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/greenschist_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
@@ -972,9 +1015,21 @@
     },
     "done": true
   },
+  "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -1023,6 +1078,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_recipe": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_treated_wood_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -1238,6 +1299,12 @@
   "rankine:recipes/rankine_misc/flint_axe": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_hv": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -1487,6 +1554,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2024-12-13 13:57:47 +0000"
@@ -1496,6 +1569,12 @@
   "rankine:recipes/rankine_world/black_marble_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/treated_wood_horizontal_from_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -1676,6 +1755,12 @@
   "rankine:recipes/rankine_world/hornblende_andesite_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/craftingtable": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -1893,6 +1978,12 @@
   "rankine:recipes/rankine_metallurgy/refractory_brick_from_fire_clay_ball_smelting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -2191,6 +2282,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/crate": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:30:36 +0000"
@@ -2389,6 +2486,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wooden_barrel": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_vslab_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
@@ -2422,6 +2525,12 @@
   "rankine:recipes/rankine_world/black_marble_bricks_from_black_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 06:46:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },
@@ -2791,6 +2900,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/waterwheel_segment": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/polished_shale_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
@@ -2971,6 +3086,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/workbench": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
@@ -3070,6 +3191,12 @@
   "rankine:recipes/rankine_world/norite_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/reinforced_crate": {
+    "criteria": {
+      "has_treated_planks": "2024-12-14 15:06:57 +0000"
     },
     "done": true
   },

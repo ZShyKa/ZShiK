@@ -2737,6 +2737,12 @@
     },
     "done": true
   },
+  "charcoal_pit:charcoal_pit/brick": {
+    "criteria": {
+      "item2": "2024-12-14 15:07:08 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/flint_knife": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:43:02 +0000"
