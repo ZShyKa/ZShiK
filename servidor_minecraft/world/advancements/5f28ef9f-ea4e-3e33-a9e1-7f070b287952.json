@@ -188,6 +188,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-12-14 05:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-13 14:34:35 +0000"
@@ -419,6 +425,7 @@
   },
   "crockpot:gnaw_will_be_happy": {
     "criteria": {
+      "potato_tornado": "2024-12-14 05:28:53 +0000",
       "watermelon_icle": "2024-12-14 05:23:03 +0000"
     },
     "done": false
@@ -1254,6 +1261,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/black_dacite_from_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:23:46 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_dacite_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:18:04 +0000"
@@ -1533,6 +1546,12 @@
   "rankine:recipes/rankine_misc/bone_ash_from_bone_smelting": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:53:29 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_from_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:30:32 +0000"
     },
     "done": true
   },
