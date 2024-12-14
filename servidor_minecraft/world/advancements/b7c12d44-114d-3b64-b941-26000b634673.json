@@ -77,15 +77,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_recipe": "2024-12-13 15:34:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_recipe": "2024-12-13 14:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:34:29 +0000"
     },
     "done": true
   },
@@ -167,15 +167,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:24:42 +0000"
-    },
-    "done": true
-  },
   "charcoal_pit:charcoal_pit/root": {
     "criteria": {
       "item1": "2024-12-13 14:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:24:42 +0000"
     },
     "done": true
   },
@@ -221,15 +221,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-13 15:39:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-13 14:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-13 15:39:02 +0000"
     },
     "done": true
   },
@@ -317,15 +317,15 @@
     },
     "done": false
   },
-  "cfm:recipes/cfm/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:03:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-13 14:55:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:03:02 +0000"
     },
     "done": true
   },
@@ -437,18 +437,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-13 15:24:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-13 15:28:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-13 14:50:40 +0000"
@@ -461,13 +449,19 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/shale_stairs_from_shale_stonecutting": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_ingredient": "2024-12-13 15:16:42 +0000"
+      "slept_in_bed": "2024-12-13 15:24:35 +0000"
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/shale_column": {
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-13 15:28:44 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_stairs_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:16:42 +0000"
     },
@@ -479,21 +473,27 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/shale_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_recipe": "2024-12-13 15:24:42 +0000"
     },
     "done": true
   },
-  "rankine:recipes/rankine_misc/building_tool": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 15:16:42 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_misc/rope_coil_arrow": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:44:40 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/building_tool": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:16:42 +0000"
     },
     "done": true
   },
@@ -533,27 +533,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_birch_planks": "2024-12-13 15:24:42 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_plants/trail_mix": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:46:11 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holder": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "has_item": "2024-12-13 15:34:21 +0000"
+      "has_birch_planks": "2024-12-13 15:24:42 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-13 14:54:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holder": {
+    "criteria": {
+      "has_item": "2024-12-13 15:34:21 +0000"
     },
     "done": true
   },
@@ -673,15 +673,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_recipe": "2024-12-13 15:24:42 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/shale_bricks_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:24:42 +0000"
     },
     "done": true
   },
@@ -697,6 +697,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/packed_snow_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-13 15:15:50 +0000"
@@ -706,12 +712,6 @@
   "rankine:recipes/rankine_world/coarse_clay_loam": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:28:45 +0000"
-    },
-    "done": true
-  },
-  "rankine:recipes/rankine_world/packed_snow_from_stairs": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:57:44 +0000"
     },
     "done": true
   },
@@ -733,15 +733,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_misc/material_testing_table": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 15:24:42 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2024-12-13 15:03:02 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/material_testing_table": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:24:42 +0000"
     },
     "done": true
   },
@@ -871,15 +871,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2024-12-13 15:34:21 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_item": "2024-12-13 14:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-13 15:34:21 +0000"
     },
     "done": true
   },
@@ -925,15 +925,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-12-13 15:15:50 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/birch_coffee_table": {
     "criteria": {
       "has_log": "2024-12-13 15:03:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-13 15:15:50 +0000"
     },
     "done": true
   },
@@ -1081,15 +1081,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_misc/wooden_hammer": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 15:24:42 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2024-12-13 15:03:02 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/wooden_hammer": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:24:42 +0000"
     },
     "done": true
   },
@@ -1159,15 +1159,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/polished_shale_from_shale_stonecutting": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 15:16:42 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/misc/white_dye_from_snowberries": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:46:11 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_shale_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:16:42 +0000"
     },
     "done": true
   },
@@ -1304,6 +1304,12 @@
     },
     "done": true
   },
+  "rankine:story/info_movement": {
+    "criteria": {
+      "rope": "2024-12-13 14:44:40 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:16:42 +0000"
@@ -1313,12 +1319,6 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-13 15:34:21 +0000"
-    },
-    "done": true
-  },
-  "rankine:story/info_movement": {
-    "criteria": {
-      "rope": "2024-12-13 14:44:40 +0000"
     },
     "done": true
   },
@@ -1334,15 +1334,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/shale_wall": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 15:16:42 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_plants/plant_fiber_from_jute": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:44:45 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:16:42 +0000"
     },
     "done": true
   },
