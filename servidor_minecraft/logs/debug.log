@@ -17088,3 +17088,33 @@
 [14Dec2024 04:36:44.584] [Server thread/INFO] [Frosted Heart/]: [FHScenario] Loaded scenario init
 [14Dec2024 04:36:44.584] [Server thread/INFO] [Frosted Heart/]: [Scenario Conductor] Running scenario init
 [14Dec2024 04:36:45.080] [Server thread/INFO] [Frosted Heart/]: Loading scenario from /workspaces/ZShiK/servidor_minecraft/config/fhscenario/langinit.ks
+[14Dec2024 04:38:23.180] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:38:23.186] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:38:23.203] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-19
+[14Dec2024 04:38:23.207] [IO-Worker-19/DEBUG] [Smooth Boot/]: Initialized IO-Worker-20
+[14Dec2024 04:38:23.212] [IO-Worker-19/DEBUG] [Smooth Boot/]: Initialized IO-Worker-21
+[14Dec2024 04:38:23.212] [IO-Worker-19/DEBUG] [Smooth Boot/]: Initialized IO-Worker-22
+[14Dec2024 04:38:23.729] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:38:23.745] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 04:40:28.461] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-23
+[14Dec2024 04:40:28.462] [IO-Worker-23/DEBUG] [Smooth Boot/]: Initialized IO-Worker-24
+[14Dec2024 04:40:28.462] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-25
+[14Dec2024 04:42:11.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ZShiKa has made the advancement [Yer a Potter Harry]
+[14Dec2024 04:42:23.084] [Server thread/INFO] [morpheus/]: thephubeo is now sleeping. 1/2 (50%)
+[14Dec2024 04:43:23.182] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:43:23.187] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 04:43:23.199] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-26
+[14Dec2024 04:43:23.199] [IO-Worker-26/DEBUG] [Smooth Boot/]: Initialized IO-Worker-27
+[14Dec2024 04:43:23.205] [IO-Worker-26/DEBUG] [Smooth Boot/]: Initialized IO-Worker-28
+[14Dec2024 04:43:23.280] [IO-Worker-26/DEBUG] [Smooth Boot/]: Initialized IO-Worker-29
+[14Dec2024 04:43:23.526] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:43:23.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 04:45:39.697] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-30
+[14Dec2024 04:45:39.697] [IO-Worker-30/DEBUG] [Smooth Boot/]: Initialized IO-Worker-31
+[14Dec2024 04:45:39.698] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-32
+[14Dec2024 04:46:47.245] [Server thread/DEBUG] [mixin/]: Mixing minecraft.PortalSizeMixin from frostedheart.mixins.json into net.minecraft.block.PortalSize
+[14Dec2024 04:46:53.158] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-33
+[14Dec2024 04:46:53.159] [IO-Worker-33/DEBUG] [Smooth Boot/]: Initialized IO-Worker-34
+[14Dec2024 04:46:53.159] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-35
+[14Dec2024 04:47:37.443] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=472, y=67, z=-688} BlockPos{x=472, y=67, z=-689}
+[14Dec2024 04:47:45.441] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=470, y=68, z=-690} BlockPos{x=471, y=67, z=-689}

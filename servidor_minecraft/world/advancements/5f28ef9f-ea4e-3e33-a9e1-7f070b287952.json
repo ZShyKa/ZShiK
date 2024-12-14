@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "rankine:story/craft_wooden_gold_pan": {
+    "criteria": {
+      "wooden_gold_pan": "2024-12-14 04:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_recipe": "2024-12-13 14:40:57 +0000"
@@ -282,15 +288,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:30:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-13 13:55:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:50 +0000"
     },
     "done": true
   },
@@ -342,15 +348,15 @@
     },
     "done": true
   },
-  "charcoal_pit:charcoal_pit/barrel": {
-    "criteria": {
-      "item1": "2024-12-13 15:35:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-13 15:02:07 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/barrel": {
+    "criteria": {
+      "item1": "2024-12-13 15:35:24 +0000"
     },
     "done": true
   },
@@ -414,21 +420,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2024-12-13 14:34:35 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/honey_locust_planks": {
     "criteria": {
       "has_log": "2024-12-13 14:10:34 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
-      "slept_in_bed": "2024-12-13 15:26:31 +0000"
+      "has_white_carpet": "2024-12-13 14:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-13 14:10:34 +0000"
     },
     "done": true
   },
@@ -438,9 +444,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_log": "2024-12-13 14:10:34 +0000"
+      "slept_in_bed": "2024-12-13 15:26:31 +0000"
     },
     "done": true
   },
@@ -498,15 +504,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_birch_planks": "2024-12-13 15:25:49 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_plants/trail_mix": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 15:25:49 +0000"
     },
     "done": true
   },
@@ -663,15 +669,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-13 15:11:05 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/packed_snow_from_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:13:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-13 15:11:05 +0000"
     },
     "done": true
   },
@@ -753,27 +759,27 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2024-12-13 15:30:50 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2024-12-13 15:11:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
-      "has_planks": "2024-12-13 15:25:49 +0000"
+      "has_log": "2024-12-13 15:30:50 +0000"
     },
     "done": true
   },
   "rankine:recipes/rankine_world/clay_bricks": {
     "criteria": {
       "has_clay": "2024-12-13 14:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:25:49 +0000"
     },
     "done": true
   },
@@ -813,15 +819,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:25:49 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 15:11:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:25:49 +0000"
     },
     "done": true
   },
@@ -975,15 +981,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_coffee_table": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:30:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-13 15:11:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:50 +0000"
     },
     "done": true
   },
@@ -1125,15 +1131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:25:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-13 13:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:25:49 +0000"
     },
     "done": true
   },
@@ -1173,15 +1179,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-13 15:25:49 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-13 15:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:25:49 +0000"
     },
     "done": true
   },
@@ -1224,6 +1230,12 @@
   "rankine:recipes/rankine_world/packed_snow_slab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:13:04 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/fire_starter": {
+    "criteria": {
+      "item1": "2024-12-14 04:35:49 +0000"
     },
     "done": true
   },
