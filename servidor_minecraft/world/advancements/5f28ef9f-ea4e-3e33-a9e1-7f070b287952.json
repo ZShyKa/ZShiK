@@ -146,6 +146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-13 13:41:22 +0000"
@@ -155,6 +161,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-13 13:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -284,6 +296,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candelabra": {
+    "criteria": {
+      "has_item": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_dacite_column": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:18:04 +0000"
@@ -344,6 +362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-14 06:03:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-13 15:11:05 +0000"
@@ -353,6 +377,12 @@
   "rankine:recipes/rankine_misc/charcoal_pit": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -386,6 +416,12 @@
       "apple": "2024-12-13 14:20:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
@@ -444,6 +480,12 @@
   "rankine:recipes/rankine_metallurgy/refractory_brick_from_fire_clay_ball_smelting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:38:00 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-14 06:01:05 +0000"
     },
     "done": true
   },
@@ -593,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 13:55:26 +0000"
@@ -638,6 +686,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_recipe": "2024-12-14 05:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -743,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/dowsing_rod": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:07:45 +0000"
@@ -758,6 +818,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 13:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-14 06:01:05 +0000"
     },
     "done": true
   },
@@ -1046,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-13 14:34:35 +0000"
@@ -1142,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/decorations/torch_from_lignite": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:47:01 +0000"
@@ -1217,6 +1295,12 @@
   "rankine:recipes/rankine_world/honey_locust_wood": {
     "criteria": {
       "has_log": "2024-12-13 14:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -1370,6 +1454,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-14 05:47:26 +0000"
@@ -1397,6 +1487,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-13 14:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -1478,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_log": "2024-12-13 15:11:05 +0000"
@@ -1487,6 +1589,12 @@
   "cfm:recipes/cfm/birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 15:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -1568,9 +1676,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_plank": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2024-12-13 15:30:50 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/gold_sheetmetal": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -1658,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-14 06:01:05 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/dolostone_vslab_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:31 +0000"
@@ -1721,6 +1847,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 13:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -1789,6 +1927,7 @@
       "minecraft:forest": "2024-12-13 13:39:30 +0000",
       "minecraft:mountains": "2024-12-14 05:56:18 +0000",
       "minecraft:birch_forest": "2024-12-13 13:48:03 +0000",
+      "minecraft:warm_ocean": "2024-12-14 06:06:35 +0000",
       "minecraft:beach": "2024-12-13 13:39:45 +0000",
       "minecraft:dark_forest": "2024-12-14 05:57:30 +0000",
       "minecraft:river": "2024-12-13 13:42:55 +0000",
@@ -1896,6 +2035,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_item": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-13 15:02:07 +0000"
@@ -1932,6 +2077,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_item": "2024-12-14 06:03:36 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/bone_ash_campfire_cooking": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:53:29 +0000"
@@ -1941,6 +2092,12 @@
   "rankine:recipes/rankine_world/white_marble_button_from_white_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:31 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/prospecting_stick": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },
@@ -1971,6 +2128,12 @@
   "rankine:recipes/rankine_world/white_marble_vertical_slab_from_white_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-14 06:00:43 +0000"
     },
     "done": true
   },

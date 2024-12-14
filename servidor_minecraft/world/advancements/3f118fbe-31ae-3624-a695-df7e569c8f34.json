@@ -26,6 +26,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2024-12-13 14:39:32 +0000"
@@ -206,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-14 06:02:34 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_birch_wood": {
     "criteria": {
       "has_log": "2024-12-14 04:58:49 +0000"
@@ -332,6 +344,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/copper_to_silver_chest_upgrade": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_recipe": "2024-12-13 14:06:03 +0000"
@@ -355,6 +373,12 @@
       "has_log": "2024-12-13 15:00:01 +0000"
     },
     "done": true
+  },
+  "rankine:challenges/element_collector": {
+    "criteria": {
+      "copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -633,6 +657,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_recipe": "2024-12-13 14:01:19 +0000"
@@ -690,6 +726,12 @@
   "charcoal_pit:charcoal_pit/charcoal": {
     "criteria": {
       "item1": "2024-12-13 14:40:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -762,6 +804,12 @@
   "rankine:recipes/rankine_world/red_dacite_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -975,6 +1023,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-13 15:19:15 +0000"
@@ -1034,6 +1088,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "rankine:story/root": {
     "criteria": {
       "stick": "2024-12-13 13:41:39 +0000"
@@ -1082,6 +1142,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_item": "2024-12-14 06:02:34 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/whiteschist_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
@@ -1106,6 +1172,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_item": "2024-12-13 14:34:46 +0000"
@@ -1115,6 +1193,12 @@
   "rankine:recipes/rankine_world/gray_marble_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/copper_sheetmetal": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -1190,6 +1274,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/white_marble_vslab_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:26 +0000"
@@ -1208,9 +1298,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_slab_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -1259,6 +1367,12 @@
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/food/mushroom_stew_from_edible_mushrooms": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:59:52 +0000"
     },
     "done": true
   },
@@ -1316,6 +1430,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/packed_snow_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:57:42 +0000"
@@ -1349,6 +1469,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -1457,6 +1583,12 @@
   "cfm:recipes/cfm/stone_desk": {
     "criteria": {
       "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -1631,6 +1763,12 @@
   "rankine:recipes/rankine_world/shale_stairs_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -1859,6 +1997,12 @@
   "rankine:recipes/rankine_world/mariposite_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -2102,6 +2246,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_elements/copper_nugget": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "thermopolium:recipes/thermopolium/stew_pot": {
     "criteria": {
       "has_claypot": "2024-12-14 04:52:41 +0000"
@@ -2132,9 +2282,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_elements/carbon_nugget_from_charcoal": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:40:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -2198,6 +2360,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-13 15:30:57 +0000"
@@ -2255,6 +2423,12 @@
   "rankine:recipes/rankine_world/white_marble_slab": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
@@ -2396,6 +2570,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-13 15:22:39 +0000"
@@ -2432,6 +2612,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_elements/copper_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 06:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-13 13:41:39 +0000"
@@ -2441,6 +2627,12 @@
   "rankine:recipes/rankine_world/norite_bricks": {
     "criteria": {
       "has_mortar": "2024-12-14 05:51:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-14 06:05:20 +0000"
     },
     "done": true
   },
