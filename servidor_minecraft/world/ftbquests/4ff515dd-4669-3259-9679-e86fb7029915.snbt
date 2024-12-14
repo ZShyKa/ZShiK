@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "4ff515dd466932599679e86fb7029915"
+	name: "MinhMelon"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

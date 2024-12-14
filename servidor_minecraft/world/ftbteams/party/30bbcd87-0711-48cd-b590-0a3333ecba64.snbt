@@ -1,0 +1,30 @@
+{
+	id: "30bbcd87-0711-48cd-b590-0a3333ecba64"
+	type: "party"
+	owner: "4ff515dd-4669-3259-9679-e86fb7029915"
+	ranks: {
+		3f118fbe-31ae-3624-a695-df7e569c8f34: "member"
+		5f28ef9f-ea4e-3e33-a9e1-7f070b287952: "member"
+		4ff515dd-4669-3259-9679-e86fb7029915: "owner"
+		b7c12d44-114d-3b64-b941-26000b634673: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "MinhMelon's Party"
+		"ftbteams:color": "#CEFF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734097300976L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"MinhMelon\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "4ff515dd-4669-3259-9679-e86fb7029915", date: 1734097300984L, text: "{\"color\":\"green\",\"text\":\"Invited ZShiKa\"}" }
+		{ from: "4ff515dd-4669-3259-9679-e86fb7029915", date: 1734097300985L, text: "{\"color\":\"green\",\"text\":\"Invited thephubeo\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734097303133L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"ZShiKa\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734097512230L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"thephubeo\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "4ff515dd-4669-3259-9679-e86fb7029915", date: 1734100026168L, text: "{\"color\":\"green\",\"text\":\"Invited anhthangngot\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734100037101L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"anhthangngot\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

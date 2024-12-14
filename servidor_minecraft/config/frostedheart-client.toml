@@ -1,0 +1,34 @@
+#Enables the temperature orb overlay. 
+enableTemperatureOrb = true
+#Position of the temperature orb in game screen. 
+#Allowed Values: MIDDLE, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+renderTempOrbAtCenter = "MIDDLE"
+#X Offset of the temperature orb. The anchor point is defined by the tempOrbPosition value. Only when you set tempOrbPosition to value other than MIDDLE will this value be used. 
+#Range: -4096 ~ 4096
+tempOrbOffsetX = 0
+#Y Offset of the temperature orb. The anchor point is defined by the tempOrbPosition value. Only when you set tempOrbPosition to value other than MIDDLE will this value be used.  
+#Range: -4096 ~ 4096
+tempOrbOffsetY = 0
+#Enables The Winter Rescue HUD. THIS IS MODPACK CORE FEATURE, DISABLING IS NOT RECOMMENDED. 
+enableHUD = true
+#Use Fahrenheit temperature instead of celsus.
+useFahrenheit = false
+#Enables the frozen overlay when player is freezing. 
+enableFrozenOverlay = true
+#Enables the vignette when player is freezing. 
+enableFrozenVignette = true
+#Enables the vignette when player is too hot. 
+enableHeatVignette = true
+#Enables the frozen sound when player is freezing. 
+enableFrozenSound = true
+
+[scenario]
+	#Base text appear speed, actual speed may change by scenario if necessary, speed 1 is 0.5 character per tick.
+	#Range: 1.0E-6 ~ 100000.0
+	textSpeed = 1.0
+	#Tick before click when a click is required to progress
+	#Range: 0 ~ 500
+	autoModeInterval = 40
+	#EnableaAuto click when scenario requires
+	autoMode = true
+

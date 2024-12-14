@@ -1,0 +1,22 @@
+#Always keep inventory on death on every dimension and world
+alwaysKeepInventory = false
+#Instead of keeping all inventory, only keep equipments, curios and quickbar tools on death
+keepEquipments = true
+#Fixes JEI and Bukkit server compat issue, don't touch unless you know what you are doing.
+fixEssJeiIssue = true
+#Range Detection tasks to execute per tick
+#Range: 0.005 ~ 2.147483647E9
+taskPerTick = 1.0
+#Special array of players
+"Player Whitelist" = ["YueSha", "duck_egg", "Evan", "dashuaibia", "khjxiaogu", "Lyuuke", "goumo_g", "Dev"]
+#Temperature System difficulty
+#Easy=Strong body
+#Normal=Average
+#Hard=Reality
+#Hardcore=Sick body
+#Allowed Values: Easy, Normal, Hard, HardCore
+temperatureDifficulty = "Normal"
+#Modifier of body temperature change speed, This does not affect hypothermia temperature.
+#Range: 0.0 ~ 20.0
+temperatureChangeRate = 0.5
+

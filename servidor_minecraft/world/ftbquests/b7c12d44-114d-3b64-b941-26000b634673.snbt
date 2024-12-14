@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "b7c12d44114d3b64b94126000b634673"
+	name: "anhthangngot"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

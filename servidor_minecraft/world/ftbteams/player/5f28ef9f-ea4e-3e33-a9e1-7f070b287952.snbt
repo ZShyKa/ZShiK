@@ -1,0 +1,17 @@
+{
+	id: "5f28ef9f-ea4e-3e33-a9e1-7f070b287952"
+	type: "player"
+	player_name: "thephubeo"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "thephubeo"
+		"ftbteams:color": "#FF5962"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

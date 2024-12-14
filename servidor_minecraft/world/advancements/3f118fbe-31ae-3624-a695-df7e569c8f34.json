@@ -1,0 +1,1617 @@
+{
+  "rankine:recipes/rankine_world/shale_slab_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:challenges/stone_collector": {
+    "criteria": {
+      "shale": "2024-12-13 15:15:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/straw": {
+    "criteria": {
+      "item1": "2024-12-13 14:02:34 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/flint_spear": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:08:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_recipe": "2024-12-13 13:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_recipe": "2024-12-13 14:40:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-13 13:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "chisel:recipes/chisel/charcoal/raw": {
+    "criteria": {
+      "has_charcoal": "2024-12-13 14:40:18 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_recipe": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/root": {
+    "criteria": {
+      "item1": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/template_table": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-13 13:57:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-13 13:52:01 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_pressure_plate_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-13 15:25:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/charcoal_pit": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2024-12-13 14:06:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/ice_skates": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_crate": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/refractory_brick_from_fire_clay_ball_smelting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "crockpot:gnaw_will_be_happy": {
+    "criteria": {
+      "potato_tornado": "2024-12-13 15:32:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-13 13:47:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/craft_stone_hammer": {
+    "criteria": {
+      "stone_hammer": "2024-12-13 15:23:40 +0000"
+    },
+    "done": true
+  },
+  "thermopolium:recipes/thermopolium/clay_cistern": {
+    "criteria": {
+      "has_clay": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/flint_shovel": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_plants/hollow_oak_log": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/coarse_loam": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:08:16 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/log_pile": {
+    "criteria": {
+      "item1": "2024-12-13 14:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_recipe": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/get_flint": {
+    "criteria": {
+      "flint": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_recipe": "2024-12-13 14:06:03 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_wall_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-13 13:23:41 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:51:58 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/honey_locust_planks": {
+    "criteria": {
+      "has_log": "2024-12-13 15:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-13 15:26:25 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_stairs_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-13 13:53:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_item": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/rope_coil_arrow": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/building_tool": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/dowsing_rod": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-13 13:53:03 +0000"
+    },
+    "done": true
+  },
+  "the_winter_rescue:root": {
+    "criteria": {
+      "item1": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/craft_flint_pickaxe": {
+    "criteria": {
+      "flint_pickaxe": "2024-12-13 14:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-13 13:53:03 +0000"
+    },
+    "done": false
+  },
+  "rankine:recipes/rankine_misc/flint_hoe": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/rankine_misc/charcoal": {
+    "criteria": {
+      "has_logs": "2024-12-13 14:04:56 +0000",
+      "has_the_recipe": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-13 13:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-13 13:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-13 13:51:58 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_bricks_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/stripped_honey_locust_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 15:00:01 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/material_testing_table": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-13 14:06:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/honey_locust_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 15:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_button_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_plants/hollow_birch_log": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_recipe": "2024-12-13 14:01:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/craft_flint_axe": {
+    "criteria": {
+      "flint_axe": "2024-12-13 14:04:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/clay_bricks": {
+    "criteria": {
+      "has_clay": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/charcoal": {
+    "criteria": {
+      "item1": "2024-12-13 14:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-13 13:51:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_recipe": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-13 14:39:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_item": "2024-12-13 13:56:54 +0000"
+    },
+    "done": true
+  },
+  "rankine:challenges/root": {
+    "criteria": {
+      "stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_recipe": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/wooden_gold_pan": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/craft_rope": {
+    "criteria": {
+      "rope": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/ice_bricks": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:51:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:08:16 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/flint_pickaxe": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-13 13:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/flint_knife": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "has_item": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_elements/carbon_nugget_from_charcoal": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:40:18 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bone_ash_from_bone_smelting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-13 13:23:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/wooden_hammer": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-13 13:53:03 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_plants/hollow_honey_locust_log": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:00:01 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/hardness_tester": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-13 13:23:41 +0000",
+      "minecraft:birch_forest": "2024-12-13 13:56:20 +0000",
+      "minecraft:beach": "2024-12-13 13:39:34 +0000",
+      "minecraft:river": "2024-12-13 13:43:35 +0000",
+      "minecraft:swamp": "2024-12-13 13:56:14 +0000",
+      "minecraft:plains": "2024-12-13 13:44:38 +0000"
+    },
+    "done": false
+  },
+  "rankine:recipes/rankine_misc/flint_axe": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-13 15:30:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_shale_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:challenges/soil_collector": {
+    "criteria": {
+      "loam": "2024-12-13 13:54:24 +0000"
+    },
+    "done": false
+  },
+  "rankine:story/support": {
+    "criteria": {
+      "stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-13 13:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/root": {
+    "criteria": {
+      "stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/sandals": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_recipe": "2024-12-13 15:08:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-13 15:31:11 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/bone_ash_campfire_cooking": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:52:01 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/prospecting_stick": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_chair": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/snowshoes": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:57:42 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_shale": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/fire_starter": {
+    "criteria": {
+      "item1": "2024-12-13 15:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:story/info_movement": {
+    "criteria": {
+      "rope": "2024-12-13 14:03:54 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_table": {
+    "criteria": {
+      "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_plants/plant_fiber_from_jute": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/shale_vertical_slab_from_shale_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 15:15:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-12-13 13:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 15:22:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

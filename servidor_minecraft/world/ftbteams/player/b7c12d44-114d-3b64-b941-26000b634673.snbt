@@ -1,0 +1,17 @@
+{
+	id: "b7c12d44-114d-3b64-b941-26000b634673"
+	type: "player"
+	player_name: "anhthangngot"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "anhthangngot"
+		"ftbteams:color": "#E459FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
