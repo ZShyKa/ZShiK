@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/polished_red_dacite_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_marble_from_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:12:45 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_pressure_plate_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -19,6 +31,7 @@
   },
   "rankine:challenges/stone_collector": {
     "criteria": {
+      "red_dacite": "2024-12-14 14:30:00 +0000",
       "black_marble": "2024-12-13 14:12:45 +0000",
       "komatiite": "2024-12-13 14:10:56 +0000",
       "white_marble": "2024-12-13 14:08:29 +0000",
@@ -89,6 +102,12 @@
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-13 14:07:27 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/chalcocite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:28:38 +0000"
     },
     "done": true
   },
@@ -278,15 +297,33 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/polished_red_dacite": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-14 14:05:51 +0000"
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_vertical_slab_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_stairs_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -311,6 +348,12 @@
   "rankine:recipes/rankine_world/black_dacite_vslab_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_elements/copper_ingot_from_chalcocite_blasting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:28:38 +0000"
     },
     "done": true
   },
@@ -365,6 +408,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 13:51:50 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_slab_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -437,6 +486,12 @@
   "rankine:recipes/rankine_world/black_dacite_vertical_slab_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -698,6 +753,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_elements/tin_ingot_from_cassiterite_blasting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:32:21 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_dacite_slab_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
@@ -864,9 +925,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_button_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2024-12-13 13:39:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_bricks_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -1044,6 +1117,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/white_marble_pressure_plate_from_white_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:08:29 +0000"
@@ -1059,6 +1138,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 13:51:50 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -1095,6 +1180,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_recipe": "2024-12-13 13:56:27 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/chalcocite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:28:38 +0000"
     },
     "done": true
   },
@@ -1143,6 +1234,12 @@
   "rankine:recipes/rankine_world/black_dacite_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/cassiterite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:32:21 +0000"
     },
     "done": true
   },
@@ -1230,6 +1327,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/ice_bricks": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:44:48 +0000"
@@ -1314,9 +1417,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -1398,6 +1513,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2024-12-14 14:26:23 +0000"
@@ -1419,6 +1540,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -1467,6 +1594,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-14 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_wall_from_red_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
@@ -1544,6 +1677,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "rankine:challenges/soil_collector": {
     "criteria": {
       "clay_loam": "2024-12-13 13:47:43 +0000",
@@ -1608,6 +1747,12 @@
   "create:recipes/create.palettes/granite_cobblestone_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/cassiterite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:32:21 +0000"
     },
     "done": true
   },
@@ -1707,6 +1852,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/red_dacite_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/polished_black_dacite": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
@@ -1722,6 +1873,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/red_dacite_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 14:30:00 +0000"
     },
     "done": true
   },
