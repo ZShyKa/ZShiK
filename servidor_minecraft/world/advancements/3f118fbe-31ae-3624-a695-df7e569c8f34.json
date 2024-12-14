@@ -231,6 +231,12 @@
     },
     "done": true
   },
+  "charcoal_pit:charcoal_pit/bloomery": {
+    "criteria": {
+      "item1": "2024-12-14 07:09:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-13 13:57:47 +0000"
@@ -1523,6 +1529,12 @@
     },
     "done": true
   },
+  "charcoal_pit:charcoal_pit/creosote": {
+    "criteria": {
+      "item1": "2024-12-14 07:10:31 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/black_marble_vertical_slab_from_black_marble_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 06:46:12 +0000"
@@ -2546,6 +2558,12 @@
   "cfm:recipes/cfm/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "charcoal_pit:charcoal_pit/brick": {
+    "criteria": {
+      "item2": "2024-12-14 07:09:01 +0000"
     },
     "done": true
   },
