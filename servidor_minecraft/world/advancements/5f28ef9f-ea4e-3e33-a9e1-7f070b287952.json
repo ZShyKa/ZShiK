@@ -574,6 +574,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/palettes/copper_tiles": {
+    "criteria": {
+      "has_item": "2024-12-14 13:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-13 13:43:02 +0000"
@@ -1577,6 +1583,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2024-12-14 13:44:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-13 15:11:05 +0000"
@@ -1884,6 +1896,12 @@
   "rankine:recipes/rankine_world/black_dacite_bricks_from_black_dacite_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-14 05:18:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_shingles": {
+    "criteria": {
+      "has_item": "2024-12-14 13:44:11 +0000"
     },
     "done": true
   },
@@ -2220,6 +2238,12 @@
   "rankine:recipes/rankine_misc/wooden_gold_pan": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:25:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/palettes/copper_shingles_from_tiles": {
+    "criteria": {
+      "has_item": "2024-12-14 13:44:11 +0000"
     },
     "done": true
   },
