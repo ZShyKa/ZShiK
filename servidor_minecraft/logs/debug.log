@@ -17176,3 +17176,209 @@
 [14Dec2024 05:14:38.551] [IO-Worker-62/DEBUG] [Smooth Boot/]: Initialized IO-Worker-63
 [14Dec2024 05:16:19.484] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-64
 [14Dec2024 05:16:19.485] [IO-Worker-64/DEBUG] [Smooth Boot/]: Initialized IO-Worker-65
+[14Dec2024 05:18:23.184] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:18:23.189] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:18:23.198] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-66
+[14Dec2024 05:18:23.198] [IO-Worker-66/DEBUG] [Smooth Boot/]: Initialized IO-Worker-67
+[14Dec2024 05:18:23.205] [IO-Worker-66/DEBUG] [Smooth Boot/]: Initialized IO-Worker-68
+[14Dec2024 05:18:23.207] [IO-Worker-66/DEBUG] [Smooth Boot/]: Initialized IO-Worker-69
+[14Dec2024 05:18:23.448] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:18:23.462] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 05:19:41.747] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-70
+[14Dec2024 05:19:41.748] [IO-Worker-70/DEBUG] [Smooth Boot/]: Initialized IO-Worker-71
+[14Dec2024 05:21:26.881] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right","double/basic_pickaxe_right_material":"basic_pickaxe/flint","double/basic_pickaxe_left_material":"basic_pickaxe/flint","double/basic_handle_material":"basic_handle/stick"})
+[14Dec2024 05:21:26.882] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right","double/basic_pickaxe_right_material":"basic_pickaxe/flint","double/basic_pickaxe_left_material":"basic_pickaxe/flint",Damage:41,"double/basic_handle_material":"basic_handle/stick"})
+[14Dec2024 05:21:26.883] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({"double/handle":"double/basic_handle","double/head_left":"double/basic_pickaxe_left","double/head_right":"double/basic_pickaxe_right","double/basic_pickaxe_right_material":"basic_pickaxe/flint","double/basic_pickaxe_left_material":"basic_pickaxe/flint",Damage:41,"double/basic_handle_material":"basic_handle/stick"})
+[14Dec2024 05:21:26.885] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/butt_right_material":"butt/flint","double/basic_axe_left_material":"basic_axe/flint","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right","double/basic_handle_material":"basic_handle/stick"})
+[14Dec2024 05:21:26.885] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"double/butt_right_material":"butt/flint","double/basic_axe_left_material":"basic_axe/flint","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right",Damage:33,"double/basic_handle_material":"basic_handle/stick"})
+[14Dec2024 05:21:26.886] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({"double/butt_right_material":"butt/flint","double/basic_axe_left_material":"basic_axe/flint","double/handle":"double/basic_handle","double/head_left":"double/basic_axe_left","double/head_right":"double/butt_right",Damage:33,"double/basic_handle_material":"basic_handle/stick"})
+[14Dec2024 05:21:26.887] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-tetra:modular_bow)
+[14Dec2024 05:21:26.887] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"bow/stave":"bow/straight_stave","bow/basic_string_material":"basic_string/string","bow/string":"bow/basic_string",Damage:0,"bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick"})
+[14Dec2024 05:21:26.888] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  ({"bow/stave":"bow/straight_stave","bow/basic_string_material":"basic_string/string","bow/string":"bow/basic_string",Damage:248,"bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick"})
+[14Dec2024 05:21:26.888] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  ({"bow/stave":"bow/straight_stave","bow/basic_string_material":"basic_string/string","bow/string":"bow/basic_string",Damage:248,"bow/stave:stave/wrap/string":0,"bow/straight_stave_material":"straight_stave/stick"})
+[14Dec2024 05:21:41.246] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-72
+[14Dec2024 05:21:41.246] [IO-Worker-72/DEBUG] [Smooth Boot/]: Initialized IO-Worker-73
+[14Dec2024 05:23:23.182] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:23:23.187] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:23:23.196] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-74
+[14Dec2024 05:23:23.197] [IO-Worker-74/DEBUG] [Smooth Boot/]: Initialized IO-Worker-75
+[14Dec2024 05:23:23.201] [IO-Worker-74/DEBUG] [Smooth Boot/]: Initialized IO-Worker-76
+[14Dec2024 05:23:23.215] [IO-Worker-74/DEBUG] [Smooth Boot/]: Initialized IO-Worker-77
+[14Dec2024 05:23:23.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:23:23.522] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[14Dec2024 05:23:56.037] [Worker-Main13/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[14Dec2024 05:23:56.039] [Worker-Main13/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[14Dec2024 05:23:56.058] [Worker-Main13/DEBUG] [bettercaves/]: CAVE INFORMATION
+[14Dec2024 05:23:56.058] [Worker-Main13/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: -0.40000004
+[14Dec2024 05:23:56.058] [Worker-Main13/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[14Dec2024 05:23:56.058] [Worker-Main13/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 0.59999996
+[14Dec2024 05:23:56.058] [Worker-Main13/DEBUG] [bettercaves/]: --> CARVER
+[14Dec2024 05:23:56.059] [Worker-Main13/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.60] (0.0442%) -- smooth cutoffs: [-1.00, -0.64]
+[14Dec2024 05:23:56.059] [Worker-Main13/DEBUG] [bettercaves/]: --> CARVER
+[14Dec2024 05:23:56.060] [Worker-Main13/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-0.60, -0.40] (0.1169%) -- smooth cutoffs: [-0.52, -0.46]
+[14Dec2024 05:23:56.063] [Worker-Main13/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[14Dec2024 05:23:56.063] [Worker-Main13/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[14Dec2024 05:23:56.063] [Worker-Main13/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[14Dec2024 05:23:56.063] [Worker-Main13/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[14Dec2024 05:23:56.063] [Worker-Main13/DEBUG] [bettercaves/]: --> CARVER
+[14Dec2024 05:23:56.063] [Worker-Main13/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[14Dec2024 05:23:56.064] [Worker-Main13/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[14Dec2024 05:23:56.064] [Worker-Main13/DEBUG] [bettercaves/]: --> CARVER
+[14Dec2024 05:23:56.064] [Worker-Main13/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[14Dec2024 05:23:56.064] [Worker-Main13/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[14Dec2024 05:23:56.065] [Worker-Main13/INFO] [bettercaves/]: Using block 'rankine:basaltic_tuff' as lava in cave generation for dimension minecraft:overworld
+[14Dec2024 05:23:56.066] [Worker-Main13/INFO] [bettercaves/]: Using block 'Block{minecraft:ice}' as water in cave generation for dimension minecraft:overworld
+[14Dec2024 05:23:56.068] [Worker-Main13/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED 2918345394657162237 IN minecraft:overworld
+[14Dec2024 05:25:20.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thephubeo fell from a high place
+[14Dec2024 05:25:22.495] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 05:25:22.495] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability deserialized!
+[14Dec2024 05:25:22.496] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: java.lang.IllegalAccessException: Can not set static final com.teammoeg.frostedheart.scenario.runner.ActNamespace field com.teammoeg.frostedheart.scenario.runner.ScenarioConductor.global to com.teammoeg.frostedheart.scenario.runner.ActNamespace
+[14Dec2024 05:25:22.496] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:76)
+[14Dec2024 05:25:22.496] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:80)
+[14Dec2024 05:25:22.496] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeQualifiedStaticObjectFieldAccessorImpl.set(UnsafeQualifiedStaticObjectFieldAccessorImpl.java:77)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.reflect.Field.set(Field.java:780)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.copyAllFields(FHUtils.java:310)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$null$4(FHUtils.java:292)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$cloneCapability$5(FHUtils.java:292)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.497] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.cloneCapability(FHUtils.java:292)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.clonePlayerCapability(FHUtils.java:298)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.events.CommonEvents.death(CommonEvents.java:388)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler_354_CommonEvents_death_Clone.invoke(.dynamic)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:482)
+[14Dec2024 05:25:22.498] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_193104_a(ServerPlayerEntity.java:1109)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.management.PlayerList.func_232644_a_(PlayerList.java:434)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147342_a(ServerPlayNetHandler.java:1234)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:30)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:8)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[14Dec2024 05:25:22.499] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[14Dec2024 05:25:22.500] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: java.lang.IllegalAccessException: Can not set static final com.teammoeg.frostedheart.scenario.runner.ActNamespace field com.teammoeg.frostedheart.scenario.runner.ScenarioConductor.init to com.teammoeg.frostedheart.scenario.runner.ActNamespace
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:76)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:80)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeQualifiedStaticObjectFieldAccessorImpl.set(UnsafeQualifiedStaticObjectFieldAccessorImpl.java:77)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.reflect.Field.set(Field.java:780)
+[14Dec2024 05:25:22.501] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.copyAllFields(FHUtils.java:310)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$null$4(FHUtils.java:292)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$cloneCapability$5(FHUtils.java:292)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.cloneCapability(FHUtils.java:292)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.clonePlayerCapability(FHUtils.java:298)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.events.CommonEvents.death(CommonEvents.java:388)
+[14Dec2024 05:25:22.502] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler_354_CommonEvents_death_Clone.invoke(.dynamic)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:482)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_193104_a(ServerPlayerEntity.java:1109)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.management.PlayerList.func_232644_a_(PlayerList.java:434)
+[14Dec2024 05:25:22.503] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147342_a(ServerPlayNetHandler.java:1234)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:30)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:8)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[14Dec2024 05:25:22.504] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+[14Dec2024 05:25:22.505] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[14Dec2024 05:25:22.506] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[14Dec2024 05:25:22.506] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[14Dec2024 05:25:22.506] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: java.lang.IllegalAccessException: Can not set static final java.util.regex.Pattern field com.teammoeg.frostedheart.scenario.runner.ScenarioVM.cmd to java.util.regex.Pattern
+[14Dec2024 05:25:22.506] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:76)
+[14Dec2024 05:25:22.506] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:80)
+[14Dec2024 05:25:22.506] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeQualifiedStaticObjectFieldAccessorImpl.set(UnsafeQualifiedStaticObjectFieldAccessorImpl.java:77)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.reflect.Field.set(Field.java:780)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.copyAllFields(FHUtils.java:310)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$null$4(FHUtils.java:292)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$cloneCapability$5(FHUtils.java:292)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.cloneCapability(FHUtils.java:292)
+[14Dec2024 05:25:22.507] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.clonePlayerCapability(FHUtils.java:298)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.events.CommonEvents.death(CommonEvents.java:388)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler_354_CommonEvents_death_Clone.invoke(.dynamic)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:482)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_193104_a(ServerPlayerEntity.java:1109)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.management.PlayerList.func_232644_a_(PlayerList.java:434)
+[14Dec2024 05:25:22.508] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147342_a(ServerPlayNetHandler.java:1234)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:30)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:8)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[14Dec2024 05:25:22.509] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: java.lang.IllegalAccessException: Can not set static final java.util.regex.Pattern field com.teammoeg.frostedheart.scenario.runner.ScenarioVM.cmd2 to java.util.regex.Pattern
+[14Dec2024 05:25:22.510] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:76)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeFieldAccessorImpl.throwFinalFieldIllegalAccessException(UnsafeFieldAccessorImpl.java:80)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/jdk.internal.reflect.UnsafeQualifiedStaticObjectFieldAccessorImpl.set(UnsafeQualifiedStaticObjectFieldAccessorImpl.java:77)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.reflect.Field.set(Field.java:780)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.copyAllFields(FHUtils.java:310)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$null$4(FHUtils.java:292)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.lambda$cloneCapability$5(FHUtils.java:292)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:151)
+[14Dec2024 05:25:22.511] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.cloneCapability(FHUtils.java:292)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.util.FHUtils.clonePlayerCapability(FHUtils.java:298)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at com.teammoeg.frostedheart.events.CommonEvents.death(CommonEvents.java:388)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler_354_CommonEvents_death_Clone.invoke(.dynamic)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[14Dec2024 05:25:22.512] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraftforge.event.ForgeEventFactory.onPlayerClone(ForgeEventFactory.java:482)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.entity.player.ServerPlayerEntity.func_193104_a(ServerPlayerEntity.java:1109)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.management.PlayerList.func_232644_a_(PlayerList.java:434)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147342_a(ServerPlayNetHandler.java:1234)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:30)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.play.client.CClientStatusPacket.func_148833_a(SourceFile:8)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[14Dec2024 05:25:22.513] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[14Dec2024 05:25:22.514] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[14Dec2024 05:25:22.515] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697)
+[14Dec2024 05:25:22.515] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[14Dec2024 05:25:22.515] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[14Dec2024 05:25:22.515] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[14Dec2024 05:25:38.083] [Server thread/INFO] [morpheus/]: thephubeo is now sleeping. 1/2 (50%)
+[14Dec2024 05:25:49.742] [IO-Worker-77/DEBUG] [Smooth Boot/]: Initialized IO-Worker-78

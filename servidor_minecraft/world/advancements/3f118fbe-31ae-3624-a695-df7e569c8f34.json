@@ -13,7 +13,9 @@
   },
   "rankine:challenges/stone_collector": {
     "criteria": {
-      "shale": "2024-12-13 15:15:19 +0000"
+      "shale": "2024-12-13 15:15:19 +0000",
+      "dolostone": "2024-12-14 05:14:53 +0000",
+      "white_marble": "2024-12-14 05:16:26 +0000"
     },
     "done": false
   },
@@ -38,6 +40,12 @@
   "charcoal_pit:charcoal_pit/straw": {
     "criteria": {
       "item1": "2024-12-13 14:02:34 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -203,6 +211,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/dolostone_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
@@ -236,6 +250,12 @@
   "rankine:recipes/rankine_misc/template_table": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_slab_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -278,6 +298,18 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-13 13:52:01 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_dolostone_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -344,6 +376,18 @@
   "cfm:recipes/cfm/stone_desk": {
     "criteria": {
       "has_log": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_stairs_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -431,6 +475,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/flint_shovel": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:54:13 +0000"
@@ -446,6 +496,12 @@
   "rankine:recipes/rankine_plants/hollow_oak_log": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/lignite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:22:17 +0000"
     },
     "done": true
   },
@@ -488,6 +544,12 @@
   "charcoal_pit:charcoal_pit/log_pile": {
     "criteria": {
       "item1": "2024-12-13 14:31:40 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -653,6 +715,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/polished_dolostone": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
@@ -668,6 +736,18 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -719,6 +799,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/dolostone_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 13:53:03 +0000"
@@ -743,9 +829,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_bricks_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -780,6 +878,18 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/dolostone_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_button_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2024-12-13 13:23:41 +0000"
@@ -789,6 +899,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-13 15:30:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_wall_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -816,6 +932,18 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/dolostone_pressure_plate_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_vertical_slab_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/shale_bricks_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:15:19 +0000"
@@ -831,6 +959,18 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/misc/coal_from_lignite": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -864,6 +1004,12 @@
     },
     "done": true
   },
+  "rankine:recipes/decorations/torch_from_lignite": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:22:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
@@ -873,6 +1019,12 @@
   "rankine:recipes/rankine_world/stripped_honey_locust_wood": {
     "criteria": {
       "has_log": "2024-12-13 15:00:01 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_bricks_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -918,6 +1070,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_pressure_plate_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 15:02:33 +0000"
@@ -939,6 +1097,12 @@
   "rankine:recipes/rankine_plants/hollow_birch_log": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -978,6 +1142,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/clay_bricks": {
     "criteria": {
       "has_clay": "2024-12-13 14:39:32 +0000"
@@ -993,6 +1163,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -1029,6 +1205,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_recipe": "2024-12-13 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-14 05:23:12 +0000"
     },
     "done": true
   },
@@ -1146,6 +1328,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/dolostone_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-13 15:22:39 +0000"
@@ -1179,6 +1367,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:43:08 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -1260,6 +1454,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/polished_white_marble": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_misc/bone_ash_from_bone_smelting": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:52:01 +0000"
@@ -1269,6 +1469,24 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/lignite_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -1308,6 +1526,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/dolostone_stairs_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 13:53:03 +0000"
@@ -1323,6 +1547,12 @@
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 14:04:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_wall_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -1388,6 +1618,12 @@
   "rankine:story/support": {
     "criteria": {
       "stick": "2024-12-13 13:41:39 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/dolostone_slab_from_dolostone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:14:53 +0000"
     },
     "done": true
   },
@@ -1457,6 +1693,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-13 14:34:46 +0000"
@@ -1493,6 +1735,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_button_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "tetra:recipes/planks": {
     "criteria": {
       "got_wood": "2024-12-13 15:30:36 +0000"
@@ -1517,9 +1765,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/white_marble_vertical_slab_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_item": "2024-12-13 14:34:46 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_white_marble_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -1574,6 +1834,12 @@
   "charcoal_pit:charcoal_pit/fire_starter": {
     "criteria": {
       "item1": "2024-12-13 15:04:47 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
@@ -1664,6 +1930,12 @@
   "cfm:recipes/cfm/birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-13 15:02:33 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 05:16:26 +0000"
     },
     "done": true
   },
