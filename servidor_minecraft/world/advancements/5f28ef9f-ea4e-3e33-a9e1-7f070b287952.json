@@ -493,6 +493,7 @@
     "criteria": {
       "potato_tornado": "2024-12-14 05:28:53 +0000",
       "fish_tacos": "2024-12-14 05:45:10 +0000",
+      "ceviche": "2024-12-14 06:09:19 +0000",
       "watermelon_icle": "2024-12-14 05:23:03 +0000"
     },
     "done": false
@@ -1926,6 +1927,8 @@
     "criteria": {
       "minecraft:forest": "2024-12-13 13:39:30 +0000",
       "minecraft:mountains": "2024-12-14 05:56:18 +0000",
+      "minecraft:taiga": "2024-12-14 06:11:53 +0000",
+      "minecraft:taiga_hills": "2024-12-14 06:12:34 +0000",
       "minecraft:birch_forest": "2024-12-13 13:48:03 +0000",
       "minecraft:warm_ocean": "2024-12-14 06:06:35 +0000",
       "minecraft:beach": "2024-12-13 13:39:45 +0000",
