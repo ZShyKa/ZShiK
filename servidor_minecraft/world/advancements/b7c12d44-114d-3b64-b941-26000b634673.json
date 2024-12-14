@@ -13,13 +13,20 @@
   },
   "rankine:challenges/stone_collector": {
     "criteria": {
-      "shale": "2024-12-13 15:16:42 +0000"
+      "shale": "2024-12-13 15:16:42 +0000",
+      "siltstone": "2024-12-14 13:47:26 +0000"
     },
     "done": false
   },
   "cfm:recipes/cfm/birch_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-13 15:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-14 13:48:29 +0000"
     },
     "done": true
   },
@@ -32,6 +39,12 @@
   "rankine:recipes/rankine_misc/flint_spear": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:44:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:02 +0000"
     },
     "done": true
   },
@@ -59,6 +72,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/polished_siltstone": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_recipe": "2024-12-13 15:10:43 +0000"
@@ -68,6 +87,12 @@
   "rankine:recipes/food/mushroom_stew_from_edible_mushrooms": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:35:54 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_slab_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -116,6 +141,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-13 14:40:27 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -283,7 +314,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-12-13 15:14:08 +0000"
+      "apple": "2024-12-13 15:14:08 +0000",
+      "suspicious_stew": "2024-12-14 13:47:50 +0000"
     },
     "done": false
   },
@@ -432,6 +464,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-14 13:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 14:55:22 +0000"
@@ -483,6 +527,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-14 13:42:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_stairs_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -667,6 +717,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:24:42 +0000"
@@ -676,6 +732,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-13 14:44:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:02 +0000"
     },
     "done": true
   },
@@ -689,6 +751,12 @@
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2024-12-13 15:03:02 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_siltstone_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -722,6 +790,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-13 15:04:19 +0000"
@@ -737,6 +811,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-14 13:42:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -812,15 +892,33 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
+    "criteria": {
+      "has_book": "2024-12-14 13:48:29 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/stripped_honey_locust_wood": {
     "criteria": {
       "has_log": "2024-12-13 14:50:40 +0000"
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_pressure_plate_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/packed_snow_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:02 +0000"
     },
     "done": true
   },
@@ -854,6 +952,18 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-13 15:03:02 +0000"
@@ -869,6 +979,12 @@
   "rankine:recipes/rankine_world/shale_button_from_shale_stonecutting": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:16:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:02 +0000"
     },
     "done": true
   },
@@ -914,6 +1030,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-13 15:24:42 +0000"
@@ -938,9 +1060,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-13 15:36:31 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_bricks_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -968,6 +1102,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_item": "2024-12-13 14:45:31 +0000"
@@ -983,6 +1123,12 @@
   "rankine:challenges/root": {
     "criteria": {
       "flint": "2024-12-13 14:44:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_button_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -1037,6 +1183,18 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-13 15:15:50 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_from_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 13:48:29 +0000"
     },
     "done": true
   },
@@ -1124,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-14 13:42:57 +0000"
@@ -1187,6 +1351,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-13 15:34:21 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -1268,6 +1438,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_slab_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/yellow_birch_wood": {
     "criteria": {
       "has_log": "2024-12-13 15:03:13 +0000"
@@ -1294,6 +1470,12 @@
   "rankine:recipes/rankine_misc/flint_axe": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:02 +0000"
     },
     "done": true
   },
@@ -1334,6 +1516,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_world/packed_snow_slab_from_vslab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:57:44 +0000"
@@ -1370,9 +1558,21 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_vertical_slab_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-13 15:24:42 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_wall_from_siltstone_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },
@@ -1394,6 +1594,12 @@
     },
     "done": true
   },
+  "rankine:recipes/rankine_world/siltstone_vslab_from_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-13 15:24:42 +0000"
@@ -1403,6 +1609,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2024-12-13 15:34:21 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/siltstone_from_vslab": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 13:47:26 +0000"
     },
     "done": true
   },

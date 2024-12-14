@@ -44,6 +44,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-13 13:55:26 +0000"
@@ -350,6 +356,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-14 06:39:49 +0000"
@@ -574,6 +586,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/palettes/copper_tiles": {
     "criteria": {
       "has_item": "2024-12-14 13:44:11 +0000"
@@ -692,6 +710,12 @@
   "rankine:recipes/rankine_world/packed_snow_stairs": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:13:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:51 +0000"
     },
     "done": true
   },
@@ -827,6 +851,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_item": "2024-12-13 13:56:36 +0000"
@@ -926,6 +956,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_plank": "2024-12-14 06:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:51 +0000"
     },
     "done": true
   },
@@ -1124,6 +1160,12 @@
   "rankine:recipes/rankine_misc/flint_axe": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:51 +0000"
     },
     "done": true
   },
@@ -1959,6 +2001,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2024-12-13 15:30:50 +0000"
@@ -1986,6 +2034,12 @@
   "create:root": {
     "criteria": {
       "0": "2024-12-13 13:39:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:51 +0000"
     },
     "done": true
   },
@@ -2127,6 +2181,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2024-12-14 13:48:51 +0000"
+    },
+    "done": true
+  },
   "rankine:recipes/rankine_plants/hollow_birch_log": {
     "criteria": {
       "has_ingredient": "2024-12-13 15:30:50 +0000"
@@ -2154,6 +2214,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-13 15:30:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-14 13:48:51 +0000"
     },
     "done": true
   },

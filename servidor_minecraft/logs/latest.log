@@ -4337,3 +4337,39 @@
 [14Dec2024 13:48:42.827] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
 [14Dec2024 13:48:42.827] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
 [14Dec2024 13:48:42.827] [Server thread/INFO] [STDERR/]: [com.teammoeg.frostedheart.util.FHUtils:copyAllFields:312]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[14Dec2024 13:51:49.095] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:51:49.103] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:51:49.109] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:54:05.353] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@205bf5bc
+[14Dec2024 13:54:05.368] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability deserialized!
+[14Dec2024 13:54:05.371] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MinhMelon[/127.177.210.111:40071] logged in with entity id 13269 at (450.1400730224889, 71.125, -647.4758175347476)
+[14Dec2024 13:54:05.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MinhMelon joined the game
+[14Dec2024 13:54:05.447] [Server thread/INFO] [STDOUT/]: [dev.ftb.mods.ftbteams.data.ClientTeamManager:write:577]: sending 1 essential teams and 4 essential players.
+[14Dec2024 13:54:05.453] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MinhMelon
+[14Dec2024 13:54:06.257] [Server thread/INFO] [Frosted Heart/]: Loading scenario from /workspaces/ZShiK/servidor_minecraft/config/fhscenario/init.ks
+[14Dec2024 13:54:06.257] [Server thread/INFO] [Frosted Heart/]: [FHScenario] Loaded scenario init
+[14Dec2024 13:54:06.257] [Server thread/INFO] [Frosted Heart/]: [Scenario Conductor] Running scenario init
+[14Dec2024 13:54:06.758] [Server thread/INFO] [Frosted Heart/]: Loading scenario from /workspaces/ZShiK/servidor_minecraft/config/fhscenario/langinit.ks
+[14Dec2024 13:54:24.668] [Server thread/INFO] [Frosted Heart/]: Loading scenario from /workspaces/ZShiK/servidor_minecraft/config/fhscenario/prelogue.ks
+[14Dec2024 13:54:24.696] [Server thread/INFO] [STDOUT/]: [com.teammoeg.frostedheart.scenario.runner.target.ExecuteTarget:apply:47]: Invalid label *st
+[14Dec2024 13:56:49.100] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:56:49.106] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:56:49.114] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:56:49.118] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 13:58:55.196] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ZShiKa lost connection: Timed out
+[14Dec2024 13:58:55.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ZShiKa left the game
+[14Dec2024 13:58:55.197] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!
+[14Dec2024 14:00:30.612] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@69bfe5ac
+[14Dec2024 14:00:30.625] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability deserialized!
+[14Dec2024 14:00:30.630] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ZShiKa[/127.183.66.109:57159] logged in with entity id 14163 at (445.3789603479395, 66.0, -655.9458624129514)
+[14Dec2024 14:00:30.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ZShiKa joined the game
+[14Dec2024 14:00:30.695] [Server thread/INFO] [STDOUT/]: [dev.ftb.mods.ftbteams.data.ClientTeamManager:write:577]: sending 1 essential teams and 4 essential players.
+[14Dec2024 14:00:30.700] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ZShiKa
+[14Dec2024 14:00:32.124] [Server thread/INFO] [Frosted Heart/]: Loading scenario from /workspaces/ZShiK/servidor_minecraft/config/fhscenario/init.ks
+[14Dec2024 14:00:32.125] [Server thread/INFO] [Frosted Heart/]: [FHScenario] Loaded scenario init
+[14Dec2024 14:00:32.125] [Server thread/INFO] [Frosted Heart/]: [Scenario Conductor] Running scenario init
+[14Dec2024 14:00:32.610] [Server thread/INFO] [Frosted Heart/]: Loading scenario from /workspaces/ZShiK/servidor_minecraft/config/fhscenario/langinit.ks
+[14Dec2024 14:00:44.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MinhMelon moved wrongly!
+[14Dec2024 14:00:45.799] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ZShiKa lost connection: Timed out
+[14Dec2024 14:00:45.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ZShiKa left the game
+[14Dec2024 14:00:45.800] [Server thread/INFO] [Frosted Heart/]: WantedFoodCapability serialized!

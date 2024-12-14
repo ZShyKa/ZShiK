@@ -62,15 +62,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/komatiite_wall": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:10:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-13 13:51:50 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/komatiite_wall": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:10:56 +0000"
     },
     "done": true
   },
@@ -98,15 +98,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_recipe": "2024-12-13 14:19:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_recipe": "2024-12-13 14:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_recipe": "2024-12-13 14:19:56 +0000"
     },
     "done": true
   },
@@ -218,15 +218,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/black_dacite_column": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:10:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-13 14:07:27 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_dacite_column": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:10:59 +0000"
     },
     "done": true
   },
@@ -314,15 +314,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2024-12-13 14:07:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-13 13:54:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:07:27 +0000"
     },
     "done": true
   },
@@ -356,12 +356,6 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/polished_black_marble_from_black_marble_stonecutting": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:12:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
@@ -371,6 +365,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_black_marble_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:12:45 +0000"
     },
     "done": true
   },
@@ -434,15 +434,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-13 14:10:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-13 13:46:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-13 14:10:28 +0000"
     },
     "done": true
   },
@@ -482,15 +482,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/packed_snow": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 13:44:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-13 13:39:36 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/packed_snow": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:44:48 +0000"
     },
     "done": true
   },
@@ -530,15 +530,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_misc/building_tool": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:08:29 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_misc/rope_coil_arrow": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:04:42 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_misc/building_tool": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:08:29 +0000"
     },
     "done": true
   },
@@ -566,15 +566,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_metallurgy/malachite_from_block": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:12:16 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/polished_komatiite": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:56 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_metallurgy/malachite_from_block": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:12:16 +0000"
     },
     "done": true
   },
@@ -608,15 +608,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/polished_black_dacite_from_black_dacite_stonecutting": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:10:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-13 13:48:44 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/polished_black_dacite_from_black_dacite_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:10:59 +0000"
     },
     "done": true
   },
@@ -674,18 +674,18 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/black_marble_stairs": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:12:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-13 14:08:26 +0000",
       "minecraft:stray": "2024-12-13 13:52:00 +0000"
     },
     "done": false
+  },
+  "rankine:recipes/rankine_world/black_marble_stairs": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:12:45 +0000"
+    },
+    "done": true
   },
   "rankine:recipes/rankine_misc/flint_hoe": {
     "criteria": {
@@ -735,12 +735,6 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/komatiite_button": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:10:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/rankine_misc/charcoal": {
     "criteria": {
       "has_logs": "2024-12-13 14:07:27 +0000",
@@ -751,6 +745,12 @@
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2024-12-13 14:07:27 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/komatiite_button": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:10:56 +0000"
     },
     "done": true
   },
@@ -874,15 +874,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/granite_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-13 14:10:28 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/coarse_clay_loam": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:47:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:10:28 +0000"
     },
     "done": true
   },
@@ -892,15 +892,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/granite_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-13 14:10:28 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/birch_table": {
     "criteria": {
       "has_log": "2024-12-13 14:07:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:10:28 +0000"
     },
     "done": true
   },
@@ -1108,15 +1108,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/black_marble_slab": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:12:45 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/black_dacite_from_slab": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_slab": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:12:45 +0000"
     },
     "done": true
   },
@@ -1210,12 +1210,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/granite_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-13 14:10:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-13 13:41:19 +0000"
@@ -1225,6 +1219,12 @@
   "rankine:recipes/rankine_world/polished_white_marble": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:08:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:10:28 +0000"
     },
     "done": true
   },
@@ -1324,18 +1324,6 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_misc/flint_axe": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 13:46:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/granite_table": {
-    "criteria": {
-      "has_planks": "2024-12-13 14:10:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-13 13:39:36 +0000",
@@ -1348,6 +1336,18 @@
     },
     "done": false
   },
+  "rankine:recipes/rankine_misc/flint_axe": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 13:46:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_planks": "2024-12-13 14:10:28 +0000"
+    },
+    "done": true
+  },
   "rankine:challenges/soil_collector": {
     "criteria": {
       "clay_loam": "2024-12-13 13:47:43 +0000",
@@ -1355,15 +1355,15 @@
     },
     "done": false
   },
-  "rankine:recipes/rankine_world/black_marble_pressure_plate_from_black_marble_stonecutting": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:12:45 +0000"
-    },
-    "done": true
-  },
   "rankine:story/support": {
     "criteria": {
       "stick": "2024-12-13 13:41:19 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/black_marble_pressure_plate_from_black_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:12:45 +0000"
     },
     "done": true
   },
@@ -1433,15 +1433,15 @@
     },
     "done": true
   },
-  "rankine:recipes/rankine_world/white_marble_button_from_white_marble_stonecutting": {
-    "criteria": {
-      "has_ingredient": "2024-12-13 14:08:29 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_misc/prospecting_stick": {
     "criteria": {
       "has_ingredient": "2024-12-13 13:49:57 +0000"
+    },
+    "done": true
+  },
+  "rankine:recipes/rankine_world/white_marble_button_from_white_marble_stonecutting": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 14:08:29 +0000"
     },
     "done": true
   },
@@ -1487,15 +1487,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2024-12-13 14:18:41 +0000"
-    },
-    "done": true
-  },
   "rankine:recipes/rankine_world/polished_black_dacite": {
     "criteria": {
       "has_ingredient": "2024-12-13 14:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 14:18:41 +0000"
     },
     "done": true
   },
@@ -1523,15 +1523,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2024-12-13 14:18:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2024-12-13 13:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-12-13 14:18:42 +0000"
     },
     "done": true
   },
